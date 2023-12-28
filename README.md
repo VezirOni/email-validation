@@ -1,2 +1,1 @@
-# email-validation
- #1 Email validation in JavaScript
+![preview img](https://imgur.com/a/l8zsyYG)
